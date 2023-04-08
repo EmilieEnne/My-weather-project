@@ -1,0 +1,48 @@
+body {
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-body {
+  padding: 35px 45px;
+}
+.card {
+  background-color: #fff;
+}
+.right {
+  text-align: right;
+}
+.search {
+  padding-bottom: 30px;
+}
+
+.weather-app {
+  border: 1px solid rgb(216, 219, 253);
+  border-radius: 10px;
+  padding: 40px;
+  box-shadow: 10px 10px 30px rgb(184, 184, 184);
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.cityHeader {
+  font-size: calc(1.375rem + 1.5vw);
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.dayHeader {
+  font-size: calc(1.3rem + 0.6vw);
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.tempHeader {
+  font-size: calc(1.375rem + 1.5vw);
+  font-weight: 500;
+  line-height: 1.2;
+}
+a {
+  text-decoration: none;
+  text-decoration-style: none;
+}
