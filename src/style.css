@@ -46,3 +46,8 @@ a {
   text-decoration: none;
   text-decoration-style: none;
 }
+
+.made-by {
+  padding: 35px 45px;
+  text-align: center;
+}
